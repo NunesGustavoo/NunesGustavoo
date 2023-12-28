@@ -6,7 +6,7 @@ Bem-vindo(a) ao meu perfil do GitHub! Aqui você encontrará projetos, contribui
 
 ## 🙋🏻 - Sobre Mim
 
-Sou um desenvolvedor iniciante, atualmente estudando na ETEC e também fazendo cursos online. Tenho um forte interesse e foco no desenvolvimento front-end, mas também estou animado para expandir minhas habilidades no desenvolvimento back-end. Estou empenhado em aprender novas tecnologias e aprimorar minhas habilidades de programação, tanto para o front-end quanto para o back-end.
+Sou um desenvolvedor iniciante, atualmente fazendo cursos online. Tenho um forte interesse e foco no desenvolvimento front-end, mas também estou animado para expandir minhas habilidades no desenvolvimento back-end. Estou empenhado em aprender novas tecnologias e aprimorar minhas habilidades de programação, tanto para o front-end quanto para o back-end.
 
 ## 🧑‍💻 - Habilidades
 

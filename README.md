@@ -18,7 +18,7 @@ Sou um desenvolvedor iniciante, atualmente fazendo cursos online. Tenho um forte
           
           
           
-- **Frameworks e ferramentas back-end:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain.svg" height="20px" width="20px" />
+- **Frameworks e ferramentas back-end:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" height="20px" width="20px" />
 
 
 
@@ -64,7 +64,7 @@ Como um desenvolvedor em constante evolução, estou sempre buscando aprender no
 
 
 
-- **Banco de dados:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="20px" width="20px" />
+- **Banco de dados:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" height="20px" width="20px" />
           
           
           

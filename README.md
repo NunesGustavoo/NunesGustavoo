@@ -11,6 +11,10 @@ Sou um desenvolvedor iniciante, atualmente realizando cursos através da platafo
 ## 🧑‍💻 - Habilidades
 
 - **Linguagens:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="20px" width="20px" />
+
+
+
+- **Banco De Dados:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="20px" width="20px" />
           
           
 
@@ -40,7 +44,7 @@ Estou empenhado em aprimorar minhas habilidades e conhecimentos nas seguintes á
 
 
 
-- **Bancos de dados:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="20px" width="20px" />
+- **Bancos de dados:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="20px" width="20px" />
           
           
 

@@ -1,10 +1,15 @@
 # Olá, eu sou o Gustavo Nunes 👋🏻😁
 
-Bem-vindo(a) ao meu perfil do GitHub! Aqui você encontrará projetos, contribuições e um pouco sobre mim.
+Bem-vindo(a) ao meu perfil do GitHub! Aqui você encontrará projetos práticos, estudos e experimentos focados em desenvolvimento web e automações.
 
 ## 🙋🏻 - Sobre Mim
 
-Sou um desenvolvedor iniciante, atualmente realizando cursos através da plataforma Udemy e cursando Ciência da computação na instituição Anhanguera. Tenho um forte interesse e foco no desenvolvimento front-end, mas também estou animado para expandir minhas habilidades no desenvolvimento back-end. Estou empenhado em aprender novas tecnologias e aprimorar minhas habilidades de programação, tanto para o front-end quanto para o back-end.
+Sou estudante de **Ciência da Computação** pela **Anhanguera** e desenvolvedor em início de carreira, com foco no desenvolvimento de **aplicações web** e **automações**.  
+Atualmente, aprimoro minhas habilidades por meio de cursos práticos na plataforma **Udemy**, aplicando os conhecimentos em projetos reais.
+
+Tenho maior afinidade com o **front-end**, desenvolvendo interfaces responsivas e funcionais, mas também venho expandindo meus conhecimentos em **back-end**, buscando compreender todo o fluxo de uma aplicação — do visual à lógica e integração com banco de dados.
+
+Sou motivado por aprendizado contínuo, boas práticas de programação e pela construção de soluções eficientes, sempre buscando evoluir tecnicamente e profissionalmente.
 
 ## 🧑‍💻 - Habilidades
 

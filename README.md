@@ -2,8 +2,6 @@
 
 Bem-vindo(a) ao meu perfil do GitHub! Aqui você encontrará projetos, contribuições e um pouco sobre mim.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NunesGustavoo&show_icons=true&theme=dracula&count_private=true) ![Others Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NunesGustavoo&theme=dracula)
-
 ## 🙋🏻 - Sobre Mim
 
 Sou um desenvolvedor iniciante, atualmente realizando cursos através da plataforma Udemy e cursando Ciência da computação na instituição Anhanguera. Tenho um forte interesse e foco no desenvolvimento front-end, mas também estou animado para expandir minhas habilidades no desenvolvimento back-end. Estou empenhado em aprender novas tecnologias e aprimorar minhas habilidades de programação, tanto para o front-end quanto para o back-end.

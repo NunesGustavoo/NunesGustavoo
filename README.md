@@ -29,49 +29,43 @@ Sou motivado por aprendizado contínuo, boas práticas de programação e pela c
 
 
 
-## 📚 - Aprendendo Atualmente
+## 📚 Aprendendo Atualmente
 
-Estou empenhado em aprimorar minhas habilidades e conhecimentos nas seguintes áreas:
+Atualmente estou focado em expandir meus conhecimentos e aprimorar minhas habilidades técnicas, com ênfase nas seguintes tecnologias e áreas de estudo:
 
+- **Linguagens de Programação:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="20px" width="20px" />
 
+- **Bancos de Dados:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="20px" width="20px" />
 
-- **Linguagens:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="20px" width="20px" />
-
-
-
-- **Bancos de dados:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="20px" width="20px" />
-          
-          
-
-- **Ferramentas e frameworks:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="20px" width="20px" />
-          
-          
-          
-## 📖 - Pretendo Aprender
-
-Como um desenvolvedor em constante evolução, estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Algumas das áreas e tecnologias que pretendo aprender no futuro são:
+- **Ferramentas e Frameworks:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="20px" width="20px" />
 
 
 
-- **Linguagens de programação:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20px" width="20px" />
-          
-          
+## 📖 Pretendo Aprender
 
-- **Ferramentas e frameworks:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="20px" width="20px" />
-          
-          
+Como desenvolvedor em constante evolução, busco expandir meus conhecimentos técnicos e explorar novas tecnologias que complementem minha formação e ampliem minhas possibilidades de atuação. Entre as áreas e ferramentas que pretendo estudar futuramente, destacam-se:
+
+- **Linguagens de Programação:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20px" width="20px" />
+
+- **Ferramentas e Frameworks:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="20px" width="20px" />
+
+- **Banco de Dados e Testes:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" height="20px" width="20px" />
 
 
 
-- **Banco de dados:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" height="20px" width="20px" />
-          
-          
-          
+## 📞 Contato
 
-## 📞 - Contato
+Fique à vontade para entrar em contato comigo através das plataformas abaixo. Estou aberto a oportunidades, colaborações e troca de conhecimento:
 
-Você pode entrar em contato comigo através das seguintes plataformas:
+- <a href="mailto:gustavopereiranunes353@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="20px">
+</a>
+<a href="https://discordapp.com/users/224922951013761024">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="20px">
+</a>
+<a href="https://www.instagram.com/_onlygustavo/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="20px">
+</a>
 
-- <a href="mailto:gustavopereiranunes353@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="20px"></a> <a href="https://discordapp.com/users/224922951013761024"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="20px"></a> <a href="https://www.instagram.com/_onlygustavo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="20px"></a>
-
-Sinta-se à vontade para explorar meus projetos e me contatar se tiver alguma pergunta ou oportunidade de colaboração. Estou animado para compartilhar meu progresso e continuar a me desenvolver tanto no desenvolvimento front-end quanto no desenvolvimento back-end.
+Sinta-se à vontade para explorar meus projetos e entrar em contato caso tenha interesse em colaborar, compartilhar ideias ou discutir oportunidades na área de desenvolvimento web.  
+Estou em constante evolução, buscando crescer tanto no **front-end** quanto no **back-end**.

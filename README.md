@@ -47,9 +47,9 @@ Como desenvolvedor em constante evolução, busco expandir meus conhecimentos t�
 
 - **Linguagens de Programação:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="20px" width="20px" />
 
-- **Ferramentas e Frameworks:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="20px" width="20px" />
+- **Ferramentas e Frameworks:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" height="20px" width="20px" />
 
-- **Banco de Dados e Testes:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="20px" width="20px" />, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" height="20px" width="20px" />
+- **Banco de Dados e Testes:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="20px" width="20px" />
 
 
 
